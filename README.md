@@ -1,4 +1,4 @@
 ### PR bisect
 
-Demo repository for bisecting PRs
+Demo repository for bisecting PRs.
 
